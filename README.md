@@ -7,3 +7,4 @@ This repository contains my learning journey through Python fundamentals. It inc
 
 - storing students score using Loops, Dictionaries, Lists
 - picture matrix (making shapes using Loops, Matrix)
+- Lambda-concept (lambda concepts and its use in functions and variables)
